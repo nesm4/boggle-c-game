@@ -1,5 +1,5 @@
 ﻿
-# Jeu du Boggle - TP7
+# Jeu du Boggle
 
 
 
