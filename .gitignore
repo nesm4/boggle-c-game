@@ -1,0 +1,15 @@
+﻿
+*.o
+
+*.exe
+
+*.out
+
+boggle
+
+boggle.exe
+
+.DS_Store
+
+.vscode/
+
